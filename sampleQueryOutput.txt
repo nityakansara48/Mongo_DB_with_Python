@@ -1,0 +1,21 @@
+Query 1. Details from EMPLOYEES collection whose name start with 'J' and works in 'Software' department.
+
+{'_id': ObjectId('6114221c9e21d3b2c415277c'), 'Dname': 'Software', 'Fname': 'Jared', 'Lname': 'James', 'work': [{'Hours': '40.0'}], 'proj': [{'Pname': 'OperatingSystem', 'Pnumber': 61}]}
+
+{'_id': ObjectId('6114221c9e21d3b2c4152784'), 'Dname': 'Software', 'Fname': 'Jon', 'Lname': 'Jones', 'work': [{'Hours': '40.0'}], 'proj': [{'Pname': 'OperatingSystem', 'Pnumber': 61}]}
+
+{'_id': ObjectId('6114221c9e21d3b2c4152785'), 'Dname': 'Software', 'Fname': 'Justin', 'Lname': 'Mark', 'work': [{'Hours': '40.0'}], 'proj': [{'Pname': 'OperatingSystem', 'Pnumber': 61}]}
+
+{'_id': ObjectId('6114221c9e21d3b2c415278e'), 'Dname': 'Software', 'Fname': 'Jeff', 'Lname': 'Chase', 'work': [{'Hours': '46.0'}], 'proj': [{'Pname': 'Middleware', 'Pnumber': 63}]}
+
+{'_id': ObjectId('6114221c9e21d3b2c41527a3'), 'Dname': 'Software', 'Fname': 'John', 'Lname': 'Ed', 'work': [{'Hours': '10.0'}], 'proj': [{'Pname': 'InkjetPrinters', 'Pnumber': 91}]}
+
+{'_id': ObjectId('6114221c9e21d3b2c41527a7'), 'Dname': 'Software', 'Fname': 'Jose', 'Lname': 'Barbara', 'work': [{'Hours': '40.0'}], 'proj': [{'Pname': 'Middleware', 'Pnumber': 63}]}
+
+{'_id': ObjectId('6114221c9e21d3b2c41527b4'), 'Dname': 'Software', 'Fname': 'Jake', 'Lname': 'Sheen', 'work': [{'Hours': '25.0'}, {'Hours': '25.0'}], 'proj': [{'Pname': 'Computerization', 'Pnumber': 10}, {'Pname': 'ConfigMgmt', 'Pnumber': 11}]}
+
+
+Query 2. Details from PROJECTSS colelction whose name start with 'J' and works in 'Software' department.
+
+{'_id': ObjectId('6114221c9e21d3b2c41527d1'), 'Dname': 'Software', 'Pname': 'DataMining', 'Pnumber': 13, 'work': [{'Hours': '18.0'}], 'emp': [{'Fname': 'Alex', 'Lname': 'Yu'}]}
+

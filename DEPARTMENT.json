@@ -1,0 +1,56 @@
+{
+  "1": {
+    "Dname": "Research",
+    "Dnumber": 5,
+    "Mgr_ssn": 333445555,
+    "Mgr_start_date": "22-MAY-1978"
+  },
+  "2": {
+    "Dname": "Administration",
+    "Dnumber": 4,
+    "Mgr_ssn": 987654321,
+    "Mgr_start_date": "01-JAN-1985"
+  },
+  "3": {
+    "Dname": "Headquarters",
+    "Dnumber": 1,
+    "Mgr_ssn": 888665555,
+    "Mgr_start_date": "19-JUN-1971"
+  },
+  "4": {
+    "Dname": "Software",
+    "Dnumber": 6,
+    "Mgr_ssn": 111111100,
+    "Mgr_start_date": "15-MAY-1999"
+  },
+  "5": {
+    "Dname": "Hardware",
+    "Dnumber": 7,
+    "Mgr_ssn": 444444400,
+    "Mgr_start_date": "15-MAY-1998"
+  },
+  "6": {
+    "Dname": "Sales",
+    "Dnumber": 8,
+    "Mgr_ssn": 555555500,
+    "Mgr_start_date": "01-JAN-1997"
+  },
+  "7": {
+    "Dname": "HR",
+    "Dnumber": 9,
+    "Mgr_ssn": 112244668,
+    "Mgr_start_date": "01-FEB-1989"
+  },
+  "8": {
+    "Dname": "Networking",
+    "Dnumber": 3,
+    "Mgr_ssn": 110110110,
+    "Mgr_start_date": "15-MAY-2009"
+  },
+  "9": {
+    "Dname": "QA",
+    "Dnumber": 11,
+    "Mgr_ssn": 913323708,
+    "Mgr_start_date": "2-FEB-2010"
+  }
+}

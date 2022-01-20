@@ -1,0 +1,110 @@
+{
+  "1": {
+    "Pname": "ProductX",
+    "Pnumber": 1,
+    "Plocation": "Bellaire",
+    "Dnum": 5
+  },
+  "2": {
+    "Pname": "ProductY",
+    "Pnumber": 2,
+    "Plocation": "Sugarland",
+    "Dnum": 5
+  },
+  "3": {
+    "Pname": "ProductZ",
+    "Pnumber": 3,
+    "Plocation": "Houston",
+    "Dnum": 5
+  },
+  "4": {
+    "Pname": "Computerization",
+    "Pnumber": 10,
+    "Plocation": "Stafford",
+    "Dnum": 4
+  },
+  "5": {
+    "Pname": "Reorganization",
+    "Pnumber": 20,
+    "Plocation": "Houston",
+    "Dnum": 1
+  },
+  "6": {
+    "Pname": "Newbenefits",
+    "Pnumber": 30,
+    "Plocation": "Stafford",
+    "Dnum": 4
+  },
+  "7": {
+    "Pname": "OperatingSystem",
+    "Pnumber": 61,
+    "Plocation": "Sacramento",
+    "Dnum": 6
+  },
+  "8": {
+    "Pname": "DatabaseSystems",
+    "Pnumber": 62,
+    "Plocation": "Atlanta",
+    "Dnum": 6
+  },
+  "9": {
+    "Pname": "Middleware",
+    "Pnumber": 63,
+    "Plocation": "Atlanta",
+    "Dnum": 6
+  },
+  "10": {
+    "Pname": "Advertizing",
+    "Pnumber": 70,
+    "Plocation": "Arlington",
+    "Dnum": 9
+  },
+  "11": {
+    "Pname": "InkjetPrinters",
+    "Pnumber": 91,
+    "Plocation": "Milwaukee",
+    "Dnum": 7
+  },
+  "12": {
+    "Pname": "LaserPrinters",
+    "Pnumber": 92,
+    "Plocation": "Milwaukee",
+    "Dnum": 7
+  },
+  "13": {
+    "Pname": "Human1",
+    "Pnumber": 95,
+    "Plocation": "Arlington",
+    "Dnum": 9
+  },
+  "14": {
+    "Pname": "SearchEngine",
+    "Pnumber": 22,
+    "Plocation": "Arlington",
+    "Dnum": 6
+  },
+  "15": {
+    "Pname": "MotherBoard",
+    "Pnumber": 29,
+    "Plocation": "Milwaukee",
+    "Dnum": 7
+  },
+  "16": {
+    "Pname": "EntityAnnot",
+    "Pnumber": 4,
+    "Plocation": "Houston",
+    "Dnum": 5
+  },
+  "17": {
+    "Pname": "ConfigMgmt",
+    "Pnumber": 11,
+    "Plocation": "Atlanta",
+    "Dnum": 6
+  },
+  "18": {
+    "Pname": "DataMining",
+    "Pnumber": 13,
+    "Plocation": "Sacramento",
+    "Dnum": 6
+  }
+}
